@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "宽鸟团材质包（Beta）"
+  },
+  "language": {
+    "zh_wbms": {
+      "name": "§1宽§2鸟§3语",
+      "region": "§4宽§5鸟§6团"
+    },
+        "lzh": {
+            "name": "文言",
+            "region": "華夏"
+        }
+  }
+}
