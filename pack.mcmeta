@@ -8,9 +8,13 @@
       "name": "§1宽§2鸟§3语",
       "region": "§4宽§5鸟§6团"
     },
-        "lzh": {
-            "name": "文言",
-            "region": "華夏"
-        }
+    "lzh": {
+      "name": "文言",
+      "region": "華夏"
+    },
+    "zh_meme": {
+      "name": "§e梗体中文§r",
+      "region": "§c天朝§r"
+    }
   }
 }
