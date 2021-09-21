@@ -1,16 +1,12 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "宽鸟团材质包"
+    "pack_format": 7,
+    "description": "宽鸟团材质包（1.17测试）"
   },
   "language": {
     "zh_wbms": {
       "name": "§1宽§2鸟§3语",
       "region": "§4宽§5鸟§6团"
-    },
-    "lzh": {
-      "name": "有限的文言",
-      "region": "華夏"
     },
     "zh_meme": {
       "name": "有限的§e梗体中文§r",
